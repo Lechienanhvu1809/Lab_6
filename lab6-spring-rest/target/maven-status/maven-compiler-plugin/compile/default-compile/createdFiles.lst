@@ -1,0 +1,6 @@
+vn\edu\gdu\lab6\entity\Book.class
+vn\edu\gdu\lab6\mapper\BookMapper.class
+vn\edu\gdu\lab6\Lab6SpringRestApplication.class
+vn\edu\gdu\lab6\dto\BookCreateDto.class
+vn\edu\gdu\lab6\mapper\BookMapperImpl.class
+vn\edu\gdu\lab6\dto\BookResponseDto.class
